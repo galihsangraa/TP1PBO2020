@@ -1,0 +1,7 @@
+Saya Galih Sangra A mengerjakan TP 1 di Mata kuliah DESAIN DAN PEMROGRAMAN BERORIENTASI OBJEK 
+untuk keberkahanNya maka saya tidak melakukan Kecurangan seperti yang telah dispesifikasikan. 
+Aamiin.
+
+Kesulitannya untuk menampilkan harga dll, terus saya waktu klik menu beli malah muncul dibelakang aneh pisan haduh gaes.
+Logout udah berfungsi, katalog belum.
+Terlalu mepet ngerjainnya jadi tidak bisa banyak explore, soalnya jangan jauh2 dari praktikum atuh kang teh
