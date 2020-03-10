@@ -9,3 +9,14 @@ C:\Users\Anony U\Downloads\Pembelian\Pembelian\obj\Debug\TP1GALIH.csproj.Generat
 C:\Users\Anony U\Downloads\Pembelian\Pembelian\obj\Debug\Pembelian.exe
 C:\Users\Anony U\Downloads\Pembelian\Pembelian\obj\Debug\Pembelian.pdb
 C:\Users\Anony U\Downloads\Pembelian\Pembelian\obj\Debug\Pembelian.FormBeli.resources
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\TP1GALIH.csprojAssemblyReference.cache
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\Pembelian.FormBeli.resources
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\Pembelian.FormHome.resources
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\Pembelian.FormLogin.resources
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\Pembelian.Properties.Resources.resources
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\TP1GALIH.csproj.GenerateResource.cache
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\Pembelian.exe
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\obj\Debug\Pembelian.pdb
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\bin\Debug\Pembelian.exe.config
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\bin\Debug\Pembelian.exe
+E:\HAHA UPI\TUGAS SEMESTER 4\PBO\tp 1\Pembelian\Pembelian\bin\Debug\Pembelian.pdb

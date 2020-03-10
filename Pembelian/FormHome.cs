@@ -34,5 +34,11 @@ namespace Pembelian
             Controls.Add(formBeli);
             formBeli.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://shopee.co.id/-NEW-Al-Quran-Terjemah-Latin-Atqan-Cover-Premium-BONUS-Tasbih-Digital-Buku-Dzikir-Pagi-Petang--i.750738.2545347165");
+        }
+
     }
 }
